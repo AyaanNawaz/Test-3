@@ -1,0 +1,60 @@
+h1{
+font-family: 'Franklin Gothic Medium';
+font-weight: "bold";
+color: blue;
+font-style: italic;
+}
+h3{
+padding:15px;
+background-color: aqua;
+width:200px;
+height:57px;
+border-radius:20px;
+    font-family: 'Times New Roman';
+    font-weight:bold;
+}
+h4{
+    font-family: cursive;
+}
+body{
+background-color: rgb(255, 234, 94);
+overflow: hidden;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(190, 252, 255);
+		padding: 13px;
+		float: none;
+		border-radius: 30px;
+        width:50%;
+	}
+    #player1_name , #player2_name
+    {
+        display: inline;
+        margin-left: 20px;
+
+    }
+
+#player1_name_input , #player2_name_input
+{
+	font-family: "Cambria";
+    color: blue;
+    background-color: rgba(232, 232, 232, 0.604);
+    border:40%;
+    font-style: italic;
+    font-weight:bold;
+    font-size: larger;
+    width:500px;
+}
+#login_button{
+color: rgb(70, 33, 33);
+font-family: "serif";
+font-weight:bold;
+font-size: larger;
+border-radius:20px;
+font-style: italic;
+}
+img{
+height:55px;
+}
